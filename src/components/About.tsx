@@ -11,7 +11,7 @@ export default function About() {
     {
       icon: Award,
       title: "Especializações",
-      description: "Ampla experiência em pós-trauma, fraturas e confecção de órteses."
+      description: "Ampla experiência em pós-trauma, fraturas e reabilitação funcional."
     },
     {
       icon: BookOpen,
@@ -49,9 +49,10 @@ export default function About() {
             >
               <div className="relative rounded-[40px] overflow-hidden shadow-2xl z-10 border-[6px] md:border-[10px] border-white bg-white">
                 <img 
-                  src="https://i.imgur.com/Vjx7yno.jpeg" 
+                  src="https://i.imgur.com/4BITDH2.jpeg" 
                   alt="Rita Morais e Dr. Bismarques Santos - Equipe Terapia da Mão" 
                   className="w-full h-auto block"
+                  referrerPolicy="no-referrer"
                 />
               </div>
               
@@ -62,13 +63,7 @@ export default function About() {
 
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto mb-16">
               <p>
-                A equipe é liderada por Rita Morais, terapeuta ocupacional com mais de 20 anos de experiência clínica, e conta com a expertise do Dr. Bismarques Santos na reabilitação do membro superior.
-              </p>
-              <p>
-                Unindo excelência técnica e uma abordagem humanizada, nossa equipe construiu uma sólida reputação em Goiânia como referência no tratamento de casos complexos, desde pós-operatórios até traumas severos.
-              </p>
-              <p>
-                Nosso compromisso conjunto é oferecer um tratamento individualizado, baseado em evidências científicas e focado na recuperação funcional completa, devolvendo a autonomia e qualidade de vida aos nossos pacientes.
+                A equipe é conduzida pela <strong>Dra. Rita Moraes</strong>, Terapeuta Ocupacional, CREFITO n° 7642 T.O., com mais de 20 anos de experiência clínica e conta também com a expertise do <strong>Dr. Bismarques Santos</strong>, Fisioterapeuta, CREFITO n° 368914-F, na reabilitação dos membros superiores, unindo excelente técnica e conhecimento científico em uma abordagem humanizada e ambiente acolhedor. O serviço constituiu uma sólida reputação em Goiânia, se tornando referência no tratamento de reabilitação de casos ortopédicos.
               </p>
             </div>
 

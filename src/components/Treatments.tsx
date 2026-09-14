@@ -5,7 +5,6 @@ import {
   Hand, 
   Settings, 
   Zap, 
-  Hammer, 
   Dna, 
   Accessibility, 
   Bandage, 
@@ -22,7 +21,6 @@ const treatments = [
   { icon: Stethoscope, title: "Fisioterapia da Mão", desc: "Técnicas manuais e exercícios de ponta." },
   { icon: Settings, title: "Recuperação Funcional", desc: "Retorno seguro ao trabalho e lazer." },
   { icon: Dna, title: "LER / DORT", desc: "Prevenção e tratamento de esforços repetitivos." },
-  { icon: Hammer, title: "Órteses Personalizadas", desc: "Confecção de dispositivos sob medida." },
 ];
 
 export default function Treatments() {
@@ -46,7 +44,7 @@ export default function Treatments() {
           </motion.h2>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
           {treatments.map((t, i) => (
             <motion.div 
               key={t.title}

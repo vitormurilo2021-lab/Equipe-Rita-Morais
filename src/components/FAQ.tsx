@@ -20,10 +20,6 @@ const faqs = [
     answer: "Não é estritamente obrigatório, mas é altamente recomendável para que possamos alinhar a conduta terapêutica com o diagnóstico clínico médico."
   },
   {
-    question: "Vocês confeccionam órteses?",
-    answer: "Sim, confeccionamos órteses termoplásticas sob medida, garantindo posicionamento correto, conforto e auxílio na recuperação."
-  },
-  {
     question: "Atendem convênio ou particular?",
     answer: "Realizamos atendimentos particulares com emissão de nota fiscal para reembolso, além de parcerias com alguns convênios específicos. Consulte-nos pelo WhatsApp."
   }

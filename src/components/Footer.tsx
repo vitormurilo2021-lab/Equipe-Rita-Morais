@@ -1,4 +1,4 @@
-import { Instagram, Facebook, MapPin, Phone, MessageCircle } from "lucide-react";
+import { Instagram, Facebook, MapPin, MessageCircle, Mail } from "lucide-react";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -43,12 +43,21 @@ export default function Footer() {
                 <span>Hospital Clínica do Esporte, Goiânia - GO</span>
               </li>
               <li className="flex items-start space-x-3 text-sm text-gray-500">
-                <Phone className="text-primary-light w-4 h-4 flex-shrink-0" />
-                <span>(62) 3212-3212</span>
+                <MessageCircle className="text-primary-light w-4 h-4 flex-shrink-0" />
+                <a 
+                  href="https://api.whatsapp.com/send/?phone=5562984942003&utm_source=site&utm_medium=organic&utm_campaign=landingpage" 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="hover:text-primary-dark transition-colors"
+                >
+                  (62) 98494-2003
+                </a>
               </li>
               <li className="flex items-start space-x-3 text-sm text-gray-500">
-                <MessageCircle className="text-primary-light w-4 h-4 flex-shrink-0" />
-                <span>(62) 98494-2003</span>
+                <Mail className="text-primary-light w-4 h-4 flex-shrink-0" />
+                <a href="mailto:ritaterapeuta61@gmail.com" className="hover:text-primary-dark transition-colors break-all">
+                  ritaterapeuta61@gmail.com
+                </a>
               </li>
             </ul>
           </div>

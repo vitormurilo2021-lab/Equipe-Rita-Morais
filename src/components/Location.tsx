@@ -30,7 +30,14 @@ export default function Location() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-900 text-lg mb-1">Contato</h4>
-                  <p className="text-gray-600">(62) 3212-3212</p>
+                  <a 
+                    href="https://api.whatsapp.com/send/?phone=5562984942003&utm_source=site&utm_medium=organic&utm_campaign=landingpage" 
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-gray-600 hover:text-primary-dark transition-colors"
+                  >
+                    (62) 98494-2003
+                  </a>
                 </div>
               </div>
 
@@ -40,7 +47,12 @@ export default function Location() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-900 text-lg mb-1">E-mail</h4>
-                  <p className="text-gray-600">contato@ritamorais.com.br</p>
+                  <a 
+                    href="mailto:ritaterapeuta61@gmail.com" 
+                    className="text-gray-600 hover:text-primary-dark transition-colors break-all"
+                  >
+                    ritaterapeuta61@gmail.com
+                  </a>
                 </div>
               </div>
             </div>
