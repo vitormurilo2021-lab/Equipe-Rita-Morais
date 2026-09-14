@@ -13,15 +13,15 @@ const faqs = [
   },
   {
     question: "Vocês atendem pós-cirúrgico?",
-    answer: "Sim, somos especialistas em reabilitação pós-cirúrgica, trabalhando em conjunto com cirurgiões para garantir a melhor cicatrização e retorno de movimentos."
+    answer: "Sim, somos especialistas em reabilitação pós-cirúrgica, trabalhando em conjunto com cirurgiões para garantir a melhor evolução e retorno de movimentos."
   },
   {
     question: "É necessário encaminhamento médico?",
-    answer: "Não é estritamente obrigatório, mas é altamente recomendável para que possamos alinhar a conduta terapêutica com o diagnóstico clínico médico."
+    answer: "No caso de planos de saúde sim. Para atendimentos particulares não é obrigatório, mas se faz necessário."
   },
   {
     question: "Atendem convênio ou particular?",
-    answer: "Realizamos atendimentos particulares com emissão de nota fiscal para reembolso, além de parcerias com alguns convênios específicos. Consulte-nos pelo WhatsApp."
+    answer: "Sim atendemos vários convênios e também realizamos atendimentos particulares."
   }
 ];
 

@@ -34,9 +34,9 @@ export default function About() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
           >
-            <span className="text-primary-light font-bold uppercase tracking-[0.2em] text-sm mb-4 block">A Equipe</span>
+            <span className="text-primary-light font-bold uppercase tracking-[0.2em] text-sm mb-4 block">Sobre Nós</span>
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-10 leading-tight">
-              Rita Morais e <span className="text-primary-dark">Dr. Bismarques Santos.</span>
+              A Equipe
             </h2>
             
             {/* Foto da equipe abaixo do título - Sem recortes */}
@@ -50,7 +50,7 @@ export default function About() {
               <div className="relative rounded-[40px] overflow-hidden shadow-2xl z-10 border-[6px] md:border-[10px] border-white bg-white">
                 <img 
                   src="https://i.imgur.com/4BITDH2.jpeg" 
-                  alt="Rita Morais e Dr. Bismarques Santos - Equipe Terapia da Mão" 
+                  alt="Equipe Terapia da Mão" 
                   className="w-full h-auto block"
                   referrerPolicy="no-referrer"
                 />

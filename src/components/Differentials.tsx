@@ -6,7 +6,7 @@ const differentials = [
   { icon: Target, title: "Plano Individualizado", desc: "Tratamentos desenhados de acordo com sua rotina e objetivos." },
   { icon: Sparkles, title: "Técnicas Atualizadas", desc: "Uso de protocolos baseados em evidências e tecnologia de ponta." },
   { icon: Home, title: "Ambiente Estruturado", desc: "Consultório moderno localizado dentro do Hospital Clínica do Esporte." },
-  { icon: MapIcon, title: "Localização Privilegiada", desc: "Fácil acesso no Setor Sul em Goiânia." },
+  { icon: MapIcon, title: "Localização Privilegiada", desc: "Fácil acesso no Setor Sul em Goiânia, com toda estrutura clínica." },
   { icon: TrendingUp, title: "Acompanhamento Próximo", desc: "Monitoramento constante da sua evolução em cada etapa." },
 ];
 
