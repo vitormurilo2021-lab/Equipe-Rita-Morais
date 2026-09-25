@@ -35,7 +35,7 @@ export default function Authority() {
             viewport={{ once: true }}
             className="text-3xl md:text-4xl font-bold text-gray-900 mb-6"
           >
-            Mais de Duas Décadas Cuidando da Sua Recuperação.
+            Há mais de 20 anos devolvendo a autonomia e o prazer do movimento, Histórias transformadas através da reabilitação.
           </motion.h2>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
