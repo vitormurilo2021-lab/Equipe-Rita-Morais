@@ -63,7 +63,7 @@ export default function About() {
 
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto mb-16">
               <p>
-                A equipe é conduzida pela <strong>Dra. Rita Moraes</strong>, Terapeuta Ocupacional, CREFITO n° 7642 T.O., com mais de 20 anos de experiência clínica e conta também com a expertise do <strong>Dr. Bismarques Santos</strong>, Fisioterapeuta, CREFITO n° 368914-F, na reabilitação dos membros superiores, unindo excelente técnica e conhecimento científico em uma abordagem humanizada e ambiente acolhedor. O serviço constituiu uma sólida reputação em Goiânia, se tornando referência no tratamento de reabilitação de casos ortopédicos.
+                A equipe é conduzida pela <strong>Dra. Rita Morais</strong>, Terapeuta Ocupacional, CREFITO n° 7642 T.O., com mais de 20 anos de experiência clínica e conta também com a expertise do <strong>Dr. Bismarques Santos</strong>, Fisioterapeuta, CREFITO n° 368914-F, na reabilitação dos membros superiores, unindo excelente técnica e conhecimento científico em uma abordagem humanizada e ambiente acolhedor. O serviço constituiu uma sólida reputação em Goiânia, se tornando referência no tratamento de reabilitação de casos ortopédicos.
               </p>
             </div>
 
