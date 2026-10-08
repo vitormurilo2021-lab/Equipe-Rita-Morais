@@ -3,7 +3,7 @@ import { Heart, Target, Sparkles, Home, MapIcon, TrendingUp } from "lucide-react
 
 const differentials = [
   { icon: Heart, title: "Atendimento Humanizado", desc: "Cada paciente é único e recebe atenção integral às suas necessidades." },
-  { icon: Target, title: "Plano Individualizado", desc: "Tratamentos desenhados de acordo com sua rotina e objetivos." },
+  { icon: Target, title: "Plano Individualizado", desc: "Tratamentos desenvolvidos de acordo com sua rotina e objetivos." },
   { icon: Sparkles, title: "Técnicas Atualizadas", desc: "Uso de protocolos baseados em evidências e tecnologia de ponta." },
   { icon: Home, title: "Ambiente Estruturado", desc: "Consultório moderno localizado dentro do Hospital Clínica do Esporte." },
   { icon: MapIcon, title: "Localização Privilegiada", desc: "Fácil acesso no Setor Sul em Goiânia, com toda estrutura clínica." },

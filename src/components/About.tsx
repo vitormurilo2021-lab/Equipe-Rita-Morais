@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { GraduationCap, Award, BookOpen, Users } from "lucide-react";
+import { GraduationCap, Award, Users } from "lucide-react";
 
 export default function About() {
   const curriculum = [
@@ -12,11 +12,6 @@ export default function About() {
       icon: Award,
       title: "Especializações",
       description: "Ampla experiência em pós-trauma, fraturas e reabilitação funcional."
-    },
-    {
-      icon: BookOpen,
-      title: "Constante Atualização",
-      description: "Participação ativa em congressos e cursos de certificação nacional e internacional."
     },
     {
       icon: Users,
@@ -67,7 +62,7 @@ export default function About() {
               </p>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-left">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-left">
               {curriculum.map((item, index) => (
                 <div key={index} className="bg-white p-6 rounded-2xl shadow-sm border border-gray-50 hover:shadow-md transition-shadow">
                   <div className="bg-bg-light p-3 rounded-xl shadow-sm h-fit w-fit mb-4">
